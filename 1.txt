@@ -1,1 +1,2 @@
-hi this is 1.txt
+hi appu welcome to devops class
+today we  will discuss about git 
