@@ -1,3 +1,3 @@
 hi appu welcome to devops class
 today we  will discuss about git 
-hi appu
+hi bharath100
